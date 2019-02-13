@@ -2,7 +2,7 @@
 This repository contains a detailed sample project that implements MVVM architecture using Jetpack's ViewModel and LiveData. 
 It also uses Dagger2 and RxJava.
 
-![MovieApp](name-of-giphy.gif)
+![MovieApp](https://github.com/mrajput-systango/media-repository/blob/master/gif/movie-app-demo.gif)
 
 # Package Structure
 - **activity:** Contains all activities of the app.
