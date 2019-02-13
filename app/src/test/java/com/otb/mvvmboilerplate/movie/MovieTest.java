@@ -7,6 +7,7 @@ import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
+import com.otb.mvvmboilerplate.data.MovieRepository;
 import com.otb.mvvmboilerplate.network.ApiCallInterface;
 import com.otb.mvvmboilerplate.network.Status;
 import com.otb.mvvmboilerplate.network.response.ApiResponse;

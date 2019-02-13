@@ -1,4 +1,4 @@
-package com.otb.mvvmboilerplate.movie;
+package com.otb.mvvmboilerplate.data;
 
 import com.google.gson.JsonElement;
 import com.otb.mvvmboilerplate.network.ApiCallInterface;

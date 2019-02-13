@@ -2,7 +2,7 @@ package com.otb.mvvmboilerplate.di.module;
 
 import android.arch.lifecycle.ViewModelProvider;
 
-import com.otb.mvvmboilerplate.movie.MovieRepository;
+import com.otb.mvvmboilerplate.data.MovieRepository;
 import com.otb.mvvmboilerplate.network.ApiCallInterface;
 import com.otb.mvvmboilerplate.utils.ViewModelFactory;
 

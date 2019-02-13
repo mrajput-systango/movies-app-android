@@ -3,7 +3,7 @@ package com.otb.mvvmboilerplate.viewmodel;
 import android.arch.lifecycle.MutableLiveData;
 import android.arch.lifecycle.ViewModel;
 
-import com.otb.mvvmboilerplate.movie.MovieRepository;
+import com.otb.mvvmboilerplate.data.MovieRepository;
 import com.otb.mvvmboilerplate.network.response.ApiResponse;
 
 import javax.inject.Inject;
